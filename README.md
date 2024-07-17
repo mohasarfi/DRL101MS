@@ -17,7 +17,10 @@ During my own DRL learning journey, I discovered fantastic online resources that
     - Double DQN
     - Dueling DQN 
     - PER 
+    - N-step DQN
     - Distributional RL/ C51 
+    - Rainbow
+    - QR-DQN
     - IQN 
 - Poicy based approaches 
     - REINFORCE 
