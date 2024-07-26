@@ -34,6 +34,8 @@ During my own DRL learning journey, I discovered fantastic online resources that
 - TD3
 - Inverse RL   
 - Simulation and Training using ROS2/Gazebo 
+- Model section of the notebooks
+- Multi-agent RL
 
 
 
