@@ -1,6 +1,7 @@
 # DRL 101 
 Let's give robots a little bit of our intelligence
 ## Main Goal
+Design, Visulaziation and Understanding of Deep Reinforcement Learning algorithms
 
 This repository is a step-by-step guide designed to make Deep Reinforcement Learning concepts more tangible! We'll achieve this by building intelligent decision-making strategies for a mobile robot.
 
