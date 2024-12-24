@@ -1,5 +1,6 @@
 # DRL 101 
 Let's give robots a little bit of our intelligence
+
 ## Main Goal
 Design, Visulaziation and Understanding of Deep Reinforcement Learning algorithms
 
@@ -31,6 +32,7 @@ During my own DRL learning journey, I discovered fantastic online resources that
     - SAC 
 
 # To Do
+- Be only focused on the agent implementation
 - DDPG
 - TD3
 - Inverse RL   
