@@ -1,6 +1,9 @@
 # DRL 101 
 Let's give robots a little bit of our intelligence
 
+# Note :
+These are my learning notes :D. Trying to make them more organized and clear.
+
 ## Main Goal
 Design, Visulaziation and Understanding of Deep Reinforcement Learning algorithms
 
@@ -50,6 +53,7 @@ During my own DRL learning journey, I discovered fantastic online resources that
 - https://github.com/marload/DistRL-TensorFlow2
 - https://github.com/BY571/IQN-and-Extensions
 - https://github.com/alessiodm/drl-zh
+- https://lilianweng.github.io/posts/2018-04-08-policy-gradient/
 
 
 
